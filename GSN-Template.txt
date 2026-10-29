@@ -1,0 +1,29 @@
+Form type - Standard , DSC
+
+Incident Type - Incident , Request for Information , Request for change ticket , Request for standard change , Security Incident
+
+Short Description - 
+
+Description - 
+
+Business Impact - None(minor), User(s), Department, Location, Country, Region, Global
+
+Urgency - Low, normal, High, Extreme
+
+Internal Work Notes (For ITSD to know about any updates in this ticket or the process followed in this ticket) - 
+
+External Work Notes (For Users who raised or created this ticket for Information or Updates about this ticket) - 
+
+Category Level 1 - Access Management, Backup/Restore, Configuration/Maintenance, Data Updates, IMACD (Install, Move, Add, Change, and Disposal), Password Reset
+
+Solution :
+*************   SOLUTION - READ ME PLEASE   ***************
+ 
+[Type the solution here - what you have done, what you have advised, if the solution is confirmed]
+ 
+____________________________________________________
+>> At the end of this email, you can provide your feedback on the Service provided by Shandosh G, using a star scale from 1 (the lowest) to 5 (the highest) to rate your satisfaction. <<
+ 
+To get information on an existing ticket or how to solve IT issues, please visit http://requestit.dhl.com
+
+***************************    END   ****************************
